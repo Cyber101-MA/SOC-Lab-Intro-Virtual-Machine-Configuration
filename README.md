@@ -45,3 +45,16 @@ All VMs are connected through a NAT network.
 ##  Diagram
 ![Home Lab VM Configuration](diagrams/home_lab_vm_configuration.png)
 
+##  Screenshots
+
+### VMware Environment Overview
+![VMware Environment](screenshots/main-vmware-window.png)
+
+### Individual Virtual Machines Running
+| VM | Screenshot |
+|----|------------|
+| Ubuntu | ![Ubuntu](screenshots/ubuntu-vm.png) |
+| Windows Server 2022 | ![Windows Server](screenshots/windoes-server-2022-vm.png) |
+| Windows 10 – User 1 | ![User 1](screenshots/windows-10-user1-vm.png) |
+| Windows 10 – User 2 | ![User 2](screenshots/windows10-user2-vm.png) |
+| Kali Linux | ![Kali](screenshots/kali-linux-vm.png) |
