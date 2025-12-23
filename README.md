@@ -33,7 +33,7 @@ The goal is to learn and practice skills required for SOC (Security Operations C
 ---
 
 ##  Network Design
-All VMs are connected through a NAT network.  
+All VMs are connected through a Host-only network.  
 - **Windows Server 2022** acts as the Domain Controller.  
 - **Windows 10 endpoints** are joined to the domain.  
 - **Ubuntu** will be configured as a SIEM/log collector.  
